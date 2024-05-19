@@ -34,10 +34,13 @@
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=lanxiu-code&abbreviated=true&color=yellow" />
 </p>
- 
+<p align="center">
+ <img align="" height="120px" src="https://github-readme-stats.vercel.app/api?username=lanxiu-code&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
+ <img align="" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanxiu-code&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+</p>
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
 </p>
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=lanxiu-code&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanxiu-code&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+
