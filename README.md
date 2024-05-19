@@ -1,6 +1,6 @@
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20LanXiu!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20lanxiu-code!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling">
 </p>
  
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
@@ -10,17 +10,17 @@
  
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=LanXiu&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=lanxiu-code&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=LanXiu&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
+<img align="center" width="400" src="https://streak-stats.demolab.com?user=lanxiu-code&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
 <br/>
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=LanXiu&theme=github-compact&hide_border=true&area=true">
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=lanxiu-code&theme=github-compact&hide_border=true&area=true">
 <br/>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LanXiu&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lanxiu-code&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanXiu&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanxiu-code&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
 <!-- https://github.com/tandpfun/skill-icons -->
 <img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab&theme=light" />
@@ -28,13 +28,15 @@
  
 <!-- https://github.com/badges/shields -->
 <p align="center">
-<a href="https://github.com/LanXiu"><img src="https://img.shields.io/badge/GitHub-LanXiu-blue?logo=github" /></a>
+<a href="https://github.com/lanxiu-code"><img src="https://img.shields.io/badge/GitHub-lanxiu-code-blue?logo=github" /></a>
 <img src="https://img.shields.io/badge/QQ-3403138527-green?logo=tencentqq" />
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-<img src="https://komarev.com/ghpvc/?username=LanXiu&abbreviated=true&color=yellow" />
+<img src="https://komarev.com/ghpvc/?username=lanxiu-code&abbreviated=true&color=yellow" />
 </p>
  
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
 </p>
+
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=lanxiu-code&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanxiu-code&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
